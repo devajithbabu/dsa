@@ -1,5 +1,5 @@
 #Given an integer array nums, find the subarray with the largest sum, and return its sum.
-nums = [-2,1,-3,4,-1,2,1,-5,4]
+nums = [2]
 i=0
 cur_sum=0
 sum=0
