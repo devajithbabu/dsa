@@ -1,15 +1,7 @@
 #Given two strings s and t, determine if they are isomorphic.
 
  
-# s = "egg"
- 
-# t = "add"
 
-# s = "abca"
-# t = "deed"
-
-s = "abaa"
-t = "xyyz"
 
 s = "ayay"
 t = "xyyx"
